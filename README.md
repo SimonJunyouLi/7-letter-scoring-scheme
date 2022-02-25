@@ -1,5 +1,7 @@
 # 7-letter-scoring-scheme
 
+The full paper can be found [here](https://github.com/SimonJunyouLi/7-letter-scoring-scheme/blob/main/7%20letter%20scoring%20scheme.doc). 
+
 # **Motives**
 
 Although the COVID-19 vaccines are "95% effective", they often have to be stored under extreme conditions. Moreover, certain vaccinated patients have shown signals of blood clots. Therefore, it is imperative to improve the stability and safety of the vaccine. 
