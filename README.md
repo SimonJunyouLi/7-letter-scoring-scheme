@@ -1,6 +1,6 @@
 # 7-letter-scoring-scheme
 
-The full paper can be found [here](https://github.com/SimonJunyouLi/7-letter-scoring-scheme/blob/main/7%20letter%20scoring%20scheme.doc). 
+The full paper can be found [here](https://github.com/SimonJunyouLi/7-letter-scoring-scheme/blob/main/7%20letter%20scoring%20scheme.pdf). 
 
 # **Motives**
 
